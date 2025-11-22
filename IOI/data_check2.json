@@ -1,0 +1,378 @@
+[
+  {
+    "clean": "After Michael and Sophia went to the store, Michael gave a bottle of milk to",
+    "corrupted": "After Michael and Sophia went to the store, Sophia gave a bottle of milk to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After Robert and Isabella drove to the beach, Robert gave a towel to",
+    "corrupted": "After Robert and Isabella drove to the beach, Isabella gave a towel to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After John and Ava walked to the park, John gave a frisbee to",
+    "corrupted": "After John and Ava walked to the park, Ava gave a frisbee to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After Michael and Sophia visited the hospital, Michael gave flowers to",
+    "corrupted": "After Michael and Sophia visited the hospital, Sophia gave flowers to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After Michael and Sophia walked to the school, Michael gave a notebook to",
+    "corrupted": "After Michael and Sophia walked to the school, Sophia gave a notebook to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After Daniel and Charlotte went to the store, Daniel gave a bottle of milk to",
+    "corrupted": "After Daniel and Charlotte went to the store, Charlotte gave a bottle of milk to",
+    "clean_answer": " Charlotte",
+    "corrupted_answer": " Daniel",
+    "clean_generated": " Charlotte",
+    "corrupted_generated": " Daniel"
+  },
+  {
+    "clean": "After James and Emma visited the library, James gave a book to",
+    "corrupted": "After James and Emma visited the library, Emma gave a book to",
+    "clean_answer": " Emma",
+    "corrupted_answer": " James",
+    "clean_generated": " Emma",
+    "corrupted_generated": " James"
+  },
+  {
+    "clean": "After John and Ava drove to the beach, John gave a towel to",
+    "corrupted": "After John and Ava drove to the beach, Ava gave a towel to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After James and Emma visited the hospital, James gave flowers to",
+    "corrupted": "After James and Emma visited the hospital, Emma gave flowers to",
+    "clean_answer": " Emma",
+    "corrupted_answer": " James",
+    "clean_generated": " Emma",
+    "corrupted_generated": " James"
+  },
+  {
+    "clean": "After John and Ava visited the hospital, John gave flowers to",
+    "corrupted": "After John and Ava visited the hospital, Ava gave flowers to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After Daniel and Charlotte drove to the beach, Daniel gave a towel to",
+    "corrupted": "After Daniel and Charlotte drove to the beach, Charlotte gave a towel to",
+    "clean_answer": " Charlotte",
+    "corrupted_answer": " Daniel",
+    "clean_generated": " Charlotte",
+    "corrupted_generated": " Daniel"
+  },
+  {
+    "clean": "After Matthew and Amelia walked to the school, Matthew gave a notebook to",
+    "corrupted": "After Matthew and Amelia walked to the school, Amelia gave a notebook to",
+    "clean_answer": " Amelia",
+    "corrupted_answer": " Matthew",
+    "clean_generated": " Amelia",
+    "corrupted_generated": " Matthew"
+  },
+  {
+    "clean": "After Robert and Isabella went to the store, Robert gave a bottle of milk to",
+    "corrupted": "After Robert and Isabella went to the store, Isabella gave a bottle of milk to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After David and Olivia finished their meal, David gave a tip to",
+    "corrupted": "After David and Olivia finished their meal, Olivia gave a tip to",
+    "clean_answer": " Olivia",
+    "corrupted_answer": " David",
+    "clean_generated": " Olivia",
+    "corrupted_generated": " David"
+  },
+  {
+    "clean": "After William and Mia entered the classroom, William gave a pencil to",
+    "corrupted": "After William and Mia entered the classroom, Mia gave a pencil to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After David and Olivia drove to the beach, David gave a towel to",
+    "corrupted": "After David and Olivia drove to the beach, Olivia gave a towel to",
+    "clean_answer": " Olivia",
+    "corrupted_answer": " David",
+    "clean_generated": " Olivia",
+    "corrupted_generated": " David"
+  },
+  {
+    "clean": "After William and Mia visited the library, William gave a book to",
+    "corrupted": "After William and Mia visited the library, Mia gave a book to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After Michael and Sophia finished their meal, Michael gave a tip to",
+    "corrupted": "After Michael and Sophia finished their meal, Sophia gave a tip to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After Michael and Sophia arrived at the party, Michael gave a gift to",
+    "corrupted": "After Michael and Sophia arrived at the party, Sophia gave a gift to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After William and Mia walked to the school, William gave a notebook to",
+    "corrupted": "After William and Mia walked to the school, Mia gave a notebook to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After Robert and Isabella went to the store, Robert gave a bottle of milk to",
+    "corrupted": "After Robert and Isabella went to the store, Isabella gave a bottle of milk to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After Matthew and Amelia visited the hospital, Matthew gave flowers to",
+    "corrupted": "After Matthew and Amelia visited the hospital, Amelia gave flowers to",
+    "clean_answer": " Amelia",
+    "corrupted_answer": " Matthew",
+    "clean_generated": " Amelia",
+    "corrupted_generated": " Matthew"
+  },
+  {
+    "clean": "After Michael and Sophia finished their meal, Michael gave a tip to",
+    "corrupted": "After Michael and Sophia finished their meal, Sophia gave a tip to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After Michael and Sophia visited the hospital, Michael gave flowers to",
+    "corrupted": "After Michael and Sophia visited the hospital, Sophia gave flowers to",
+    "clean_answer": " Sophia",
+    "corrupted_answer": " Michael",
+    "clean_generated": " Sophia",
+    "corrupted_generated": " Michael"
+  },
+  {
+    "clean": "After Robert and Isabella walked to the school, Robert gave a notebook to",
+    "corrupted": "After Robert and Isabella walked to the school, Isabella gave a notebook to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After William and Mia walked to the school, William gave a notebook to",
+    "corrupted": "After William and Mia walked to the school, Mia gave a notebook to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After John and Ava visited the library, John gave a book to",
+    "corrupted": "After John and Ava visited the library, Ava gave a book to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After James and Emma drove to the beach, James gave a towel to",
+    "corrupted": "After James and Emma drove to the beach, Emma gave a towel to",
+    "clean_answer": " Emma",
+    "corrupted_answer": " James",
+    "clean_generated": " Emma",
+    "corrupted_generated": " James"
+  },
+  {
+    "clean": "After Robert and Isabella visited the library, Robert gave a book to",
+    "corrupted": "After Robert and Isabella visited the library, Isabella gave a book to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After John and Ava visited the library, John gave a book to",
+    "corrupted": "After John and Ava visited the library, Ava gave a book to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After Daniel and Charlotte entered the classroom, Daniel gave a pencil to",
+    "corrupted": "After Daniel and Charlotte entered the classroom, Charlotte gave a pencil to",
+    "clean_answer": " Charlotte",
+    "corrupted_answer": " Daniel",
+    "clean_generated": " Charlotte",
+    "corrupted_generated": " Daniel"
+  },
+  {
+    "clean": "After Matthew and Amelia arrived at the party, Matthew gave a gift to",
+    "corrupted": "After Matthew and Amelia arrived at the party, Amelia gave a gift to",
+    "clean_answer": " Amelia",
+    "corrupted_answer": " Matthew",
+    "clean_generated": " Amelia",
+    "corrupted_generated": " Matthew"
+  },
+  {
+    "clean": "After David and Olivia arrived at the party, David gave a gift to",
+    "corrupted": "After David and Olivia arrived at the party, Olivia gave a gift to",
+    "clean_answer": " Olivia",
+    "corrupted_answer": " David",
+    "clean_generated": " Olivia",
+    "corrupted_generated": " David"
+  },
+  {
+    "clean": "After William and Mia drove to the beach, William gave a towel to",
+    "corrupted": "After William and Mia drove to the beach, Mia gave a towel to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After Robert and Isabella visited the library, Robert gave a book to",
+    "corrupted": "After Robert and Isabella visited the library, Isabella gave a book to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After Andrew and Evelyn walked to the park, Andrew gave a frisbee to",
+    "corrupted": "After Andrew and Evelyn walked to the park, Evelyn gave a frisbee to",
+    "clean_answer": " Evelyn",
+    "corrupted_answer": " Andrew",
+    "clean_generated": " Eve",
+    "corrupted_generated": " Andrew"
+  },
+  {
+    "clean": "After David and Olivia went to the bank, David gave a check to",
+    "corrupted": "After David and Olivia went to the bank, Olivia gave a check to",
+    "clean_answer": " Olivia",
+    "corrupted_answer": " David",
+    "clean_generated": " Olivia",
+    "corrupted_generated": " David"
+  },
+  {
+    "clean": "After Daniel and Charlotte entered the classroom, Daniel gave a pencil to",
+    "corrupted": "After Daniel and Charlotte entered the classroom, Charlotte gave a pencil to",
+    "clean_answer": " Charlotte",
+    "corrupted_answer": " Daniel",
+    "clean_generated": " Charlotte",
+    "corrupted_generated": " Daniel"
+  },
+  {
+    "clean": "After William and Mia went to the store, William gave a bottle of milk to",
+    "corrupted": "After William and Mia went to the store, Mia gave a bottle of milk to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After John and Ava went to the store, John gave a bottle of milk to",
+    "corrupted": "After John and Ava went to the store, Ava gave a bottle of milk to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After William and Mia finished their meal, William gave a tip to",
+    "corrupted": "After William and Mia finished their meal, Mia gave a tip to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After Robert and Isabella visited the library, Robert gave a book to",
+    "corrupted": "After Robert and Isabella visited the library, Isabella gave a book to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  },
+  {
+    "clean": "After John and Ava walked to the school, John gave a notebook to",
+    "corrupted": "After John and Ava walked to the school, Ava gave a notebook to",
+    "clean_answer": " Ava",
+    "corrupted_answer": " John",
+    "clean_generated": " Av",
+    "corrupted_generated": " John"
+  },
+  {
+    "clean": "After William and Mia drove to the beach, William gave a towel to",
+    "corrupted": "After William and Mia drove to the beach, Mia gave a towel to",
+    "clean_answer": " Mia",
+    "corrupted_answer": " William",
+    "clean_generated": " Mia",
+    "corrupted_generated": " William"
+  },
+  {
+    "clean": "After Matthew and Amelia finished their meal, Matthew gave a tip to",
+    "corrupted": "After Matthew and Amelia finished their meal, Amelia gave a tip to",
+    "clean_answer": " Amelia",
+    "corrupted_answer": " Matthew",
+    "clean_generated": " Amelia",
+    "corrupted_generated": " Matthew"
+  },
+  {
+    "clean": "After Matthew and Amelia walked to the park, Matthew gave a frisbee to",
+    "corrupted": "After Matthew and Amelia walked to the park, Amelia gave a frisbee to",
+    "clean_answer": " Amelia",
+    "corrupted_answer": " Matthew",
+    "clean_generated": " Amelia",
+    "corrupted_generated": " Matthew"
+  },
+  {
+    "clean": "After Robert and Isabella walked to the park, Robert gave a frisbee to",
+    "corrupted": "After Robert and Isabella walked to the park, Isabella gave a frisbee to",
+    "clean_answer": " Isabella",
+    "corrupted_answer": " Robert",
+    "clean_generated": " Is",
+    "corrupted_generated": " Robert"
+  }
+]
