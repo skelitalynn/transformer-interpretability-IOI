@@ -4,8 +4,6 @@
 
 本项目旨在研究 GPT-2 模型在执行 **间接宾语识别（Indirect Object Identification, IOI）** 任务时的注意力机制，并通过 **激活修补（Activation Patching）** 技术分析各层与注意力头（Attention Head）的贡献。同时，从体系结构角度评估系统在 **本地（Local）**、**云端（Remote）** 和 **混合（Hybrid）** 部署下的性能差异。
 
-本项目采用模块化流水线设计，是《软件体系结构》课程的大作业。
-
 ---
 
 ## 二、项目目标
@@ -163,14 +161,6 @@ python src/run_experiment.py
 ```
 
 在 `configs/hybrid.json` 中可修改模块运行位置（local / remote / hybrid）。
-
----
-
-## 九、项目成员
-
-* **系统框架与部署设计**：ZYW
-* **性能测试与数据分析**：HYZ
-* **可视化与报告撰写**：[你的名字]
 
 ---
 
