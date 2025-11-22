@@ -1,0 +1,482 @@
+[
+  {
+    "normal": "During the charity event, the celebrity donated the signed book to",
+    "corrupted": "During the charity event, the organizer handed the microphone to",
+    "normal_target": "the young fan",
+    "corrupted_target": "the host"
+  },
+  {
+    "normal": "After the performance, the director offered the lead role to",
+    "corrupted": "After the performance, the producer promised the contract to",
+    "normal_target": "the talented actress",
+    "corrupted_target": "the new agent"
+  },
+  {
+    "normal": "At the birthday party, the mother passed the birthday cake to",
+    "corrupted": "At the birthday party, the father served the ice cream to",
+    "normal_target": "her daughter",
+    "corrupted_target": "his son"
+  },
+  {
+    "normal": "Following the negotiation, the CEO transferred the company shares to",
+    "corrupted": "Following the negotiation, the lawyer sent the legal documents to",
+    "normal_target": "his business partner",
+    "corrupted_target": "the court clerk"
+  },
+  {
+    "normal": "In the classroom, the teacher distributed the test papers to",
+    "corrupted": "In the classroom, the student returned the borrowed pencil to",
+    "normal_target": "all the students",
+    "corrupted_target": "her classmate"
+  },
+  {
+    "normal": "After the harvest, the farmer sold the fresh produce to",
+    "corrupted": "After the harvest, the vendor delivered the organic vegetables to",
+    "normal_target": "the local market",
+    "corrupted_target": "the restaurant owner"
+  },
+  {
+    "normal": "At the wedding, the bride tossed the bouquet to",
+    "corrupted": "At the wedding, the groom threw the garter to",
+    "normal_target": "her bridesmaids",
+    "corrupted_target": "his groomsmen"
+  },
+  {
+    "normal": "During the conference, the speaker forwarded the research data to",
+    "corrupted": "During the conference, the assistant emailed the presentation slides to",
+    "normal_target": "the interested participants",
+    "corrupted_target": "all attendees"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the check to",
+    "corrupted": "During the charity event, the sponsor contributed the funds to",
+    "normal_target": "the foundation",
+    "corrupted_target": "the organization"
+  },
+  {
+    "normal": "After the performance, the director handed the script to",
+    "corrupted": "After the performance, the producer sent the contract to",
+    "normal_target": "the lead actor",
+    "corrupted_target": "the agent"
+  },
+  {
+    "normal": "At the birthday party, the mother served the cake to",
+    "corrupted": "At the birthday party, the father offered the gifts to",
+    "normal_target": "the children",
+    "corrupted_target": "the guests"
+  },
+  {
+    "normal": "In the courtroom, the lawyer submitted the evidence to",
+    "corrupted": "In the courtroom, the witness provided the testimony to",
+    "normal_target": "the judge",
+    "corrupted_target": "the jury"
+  },
+  {
+    "normal": "During the workshop, the instructor distributed the materials to",
+    "corrupted": "During the workshop, the assistant passed the handouts to",
+    "normal_target": "the students",
+    "corrupted_target": "the participants"
+  },
+  {
+    "normal": "At the restaurant, the waiter brought the dessert to",
+    "corrupted": "At the restaurant, the chef sent the appetizer to",
+    "normal_target": "the couple",
+    "corrupted_target": "the table"
+  },
+  {
+    "normal": "After the game, the captain threw the ball to",
+    "corrupted": "After the game, the coach tossed the jersey to",
+    "normal_target": "the referee",
+    "corrupted_target": "the rookie"
+  },
+  {
+    "normal": "In the library, the librarian loaned the book to",
+    "corrupted": "In the library, the volunteer recommended the novel to",
+    "normal_target": "the student",
+    "corrupted_target": "the visitor"
+  },
+  {
+    "normal": "After finishing the project, the manager handed the final report to",
+    "corrupted": "After finishing the project, the consultant submitted the proposal to",
+    "normal_target": "the client",
+    "corrupted_target": "the committee"
+  },
+  {
+    "normal": "During the ceremony, the mayor presented the key to the city to",
+    "corrupted": "During the ceremony, the governor offered the honorary degree to",
+    "normal_target": "the philanthropist",
+    "corrupted_target": "the scientist"
+  },
+  {
+    "normal": "At the birthday party, the mother passed the birthday cake to",
+    "corrupted": "At the birthday party, the father served the ice cream to",
+    "normal_target": "the birthday girl",
+    "corrupted_target": "the guests"
+  },
+  {
+    "normal": "In the courtroom, the lawyer showed the evidence to",
+    "corrupted": "In the courtroom, the prosecutor presented the testimony to",
+    "normal_target": "the jury",
+    "corrupted_target": "the judge"
+  },
+  {
+    "normal": "After the performance, the director gave the bouquet to",
+    "corrupted": "After the performance, the producer offered the contract to",
+    "normal_target": "the lead actress",
+    "corrupted_target": "the new talent"
+  },
+  {
+    "normal": "At the restaurant, the waiter brought the special dessert to",
+    "corrupted": "At the restaurant, the chef sent the complimentary appetizer to",
+    "normal_target": "the regular customer",
+    "corrupted_target": "the VIP table"
+  },
+  {
+    "normal": "During the workshop, the instructor distributed the materials to",
+    "corrupted": "During the workshop, the mentor assigned the project to",
+    "normal_target": "the participants",
+    "corrupted_target": "the teams"
+  },
+  {
+    "normal": "At the book signing, the author dedicated the first copy to",
+    "corrupted": "At the book signing, the publisher gifted the limited edition to",
+    "normal_target": "his biggest fan",
+    "corrupted_target": "the bookstore owner"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the check to",
+    "corrupted": "During the charity event, the sponsor handed the award to",
+    "normal_target": "the foundation",
+    "corrupted_target": "the volunteer"
+  },
+  {
+    "normal": "After finishing the project, the manager assigned the bonus to",
+    "corrupted": "After finishing the project, the director allocated the resources to",
+    "normal_target": "his team",
+    "corrupted_target": "the department"
+  },
+  {
+    "normal": "At the birthday party, the host offered the cake to",
+    "corrupted": "At the birthday party, the guest brought the gift to",
+    "normal_target": "the children",
+    "corrupted_target": "the birthday girl"
+  },
+  {
+    "normal": "Following the performance, the conductor passed the baton to",
+    "corrupted": "Following the performance, the soloist returned the instrument to",
+    "normal_target": "the apprentice",
+    "corrupted_target": "the technician"
+  },
+  {
+    "normal": "In the courtroom, the lawyer submitted the evidence to",
+    "corrupted": "In the courtroom, the witness provided the testimony to",
+    "normal_target": "the judge",
+    "corrupted_target": "the jury"
+  },
+  {
+    "normal": "During the workshop, the instructor distributed the materials to",
+    "corrupted": "During the workshop, the assistant circulated the handouts to",
+    "normal_target": "the participants",
+    "corrupted_target": "the attendees"
+  },
+  {
+    "normal": "At the reunion, the alumnus presented the scholarship to",
+    "corrupted": "At the reunion, the dean announced the grant to",
+    "normal_target": "the student",
+    "corrupted_target": "the researcher"
+  },
+  {
+    "normal": "After the negotiation, the CEO transferred the shares to",
+    "corrupted": "After the negotiation, the board member sold the assets to",
+    "normal_target": "his partner",
+    "corrupted_target": "the investor"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the signed book to",
+    "corrupted": "During the charity event, the sponsor contributed the artwork to",
+    "normal_target": "the young fan",
+    "corrupted_target": "the museum"
+  },
+  {
+    "normal": "After the performance, the director handed the script to",
+    "corrupted": "After the performance, the producer sent the contract to",
+    "normal_target": "the lead actor",
+    "corrupted_target": "the agent"
+  },
+  {
+    "normal": "At the birthday party, the mother offered the cake to",
+    "corrupted": "At the birthday party, the father served the pizza to",
+    "normal_target": "the children",
+    "corrupted_target": "the guests"
+  },
+  {
+    "normal": "Following the negotiation, the CEO transferred the shares to",
+    "corrupted": "Following the negotiation, the lawyer assigned the rights to",
+    "normal_target": "the partner",
+    "corrupted_target": "the heir"
+  },
+  {
+    "normal": "In the classroom, the teacher distributed the worksheets to",
+    "corrupted": "In the classroom, the assistant provided the materials to",
+    "normal_target": "the students",
+    "corrupted_target": "the volunteers"
+  },
+  {
+    "normal": "After the match, the captain tossed the ball to",
+    "corrupted": "After the match, the coach threw the jersey to",
+    "normal_target": "the referee",
+    "corrupted_target": "the mascot"
+  },
+  {
+    "normal": "At the ceremony, the mayor presented the key to",
+    "corrupted": "At the ceremony, the councilor awarded the plaque to",
+    "normal_target": "the honored guest",
+    "corrupted_target": "the community leader"
+  },
+  {
+    "normal": "During the workshop, the instructor demonstrated the technique to",
+    "corrupted": "During the workshop, the mentor explained the concept to",
+    "normal_target": "the participants",
+    "corrupted_target": "the newcomers"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the large check to",
+    "corrupted": "During the charity event, the sponsor contributed the funds to",
+    "normal_target": "the foundation",
+    "corrupted_target": "the organization"
+  },
+  {
+    "normal": "After finishing the report, the manager forwarded the file to",
+    "corrupted": "After finishing the analysis, the consultant emailed the presentation to",
+    "normal_target": "her supervisor",
+    "corrupted_target": "the client"
+  },
+  {
+    "normal": "At the birthday party, the host served the cake to",
+    "corrupted": "At the birthday party, the caterer offered the dessert to",
+    "normal_target": "the guest of honor",
+    "corrupted_target": "the children"
+  },
+  {
+    "normal": "Following the performance, the director handed the script to",
+    "corrupted": "Following the rehearsal, the producer passed the notes to",
+    "normal_target": "the lead actor",
+    "corrupted_target": "the stage manager"
+  },
+  {
+    "normal": "During the ceremony, the mayor presented the key to",
+    "corrupted": "During the ceremony, the council member gave the award to",
+    "normal_target": "the city",
+    "corrupted_target": "the volunteer"
+  },
+  {
+    "normal": "After the negotiation, the lawyer sent the contract to",
+    "corrupted": "After the discussion, the paralegal delivered the documents to",
+    "normal_target": "his client",
+    "corrupted_target": "the court"
+  },
+  {
+    "normal": "At the market, the farmer sold the fresh produce to",
+    "corrupted": "At the market, the vendor offered the handmade goods to",
+    "normal_target": "the regular customer",
+    "corrupted_target": "the tourist"
+  },
+  {
+    "normal": "Following the lecture, the professor returned the papers to",
+    "corrupted": "Following the seminar, the teaching assistant distributed the materials to",
+    "normal_target": "the students",
+    "corrupted_target": "the participants"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the check to",
+    "corrupted": "During the charity event, the sponsor contributed the funds to",
+    "normal_target": "the foundation",
+    "corrupted_target": "the organization"
+  },
+  {
+    "normal": "After finishing the project, the team leader submitted the report to",
+    "corrupted": "After finishing the project, the consultant delivered the presentation to",
+    "normal_target": "the director",
+    "corrupted_target": "the committee"
+  },
+  {
+    "normal": "At the birthday party, the mother handed the gift to",
+    "corrupted": "At the birthday party, the father passed the cake to",
+    "normal_target": "her daughter",
+    "corrupted_target": "his son"
+  },
+  {
+    "normal": "Following the performance, the conductor offered the baton to",
+    "corrupted": "Following the performance, the soloist returned the instrument to",
+    "normal_target": "the apprentice",
+    "corrupted_target": "the technician"
+  },
+  {
+    "normal": "In the courtroom, the lawyer showed the evidence to",
+    "corrupted": "In the courtroom, the witness revealed the testimony to",
+    "normal_target": "the jury",
+    "corrupted_target": "the prosecutor"
+  },
+  {
+    "normal": "During the workshop, the instructor distributed the materials to",
+    "corrupted": "During the workshop, the assistant provided the equipment to",
+    "normal_target": "the participants",
+    "corrupted_target": "the volunteers"
+  },
+  {
+    "normal": "At the restaurant, the waiter served the dessert to",
+    "corrupted": "At the restaurant, the chef sent the appetizer to",
+    "normal_target": "the customer",
+    "corrupted_target": "the reviewer"
+  },
+  {
+    "normal": "After the match, the captain tossed the ball to",
+    "corrupted": "After the match, the coach threw the towel to",
+    "normal_target": "the referee",
+    "corrupted_target": "the substitute"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the signed book to",
+    "corrupted": "During the charity event, the organizer handed the microphone to",
+    "normal_target": "the young fan",
+    "corrupted_target": "the host"
+  },
+  {
+    "normal": "After finishing the project, the manager assigned the bonus to",
+    "corrupted": "After finishing the project, the client sent the payment to",
+    "normal_target": "the lead developer",
+    "corrupted_target": "the accounting department"
+  },
+  {
+    "normal": "At the birthday party, the mother served the cake to",
+    "corrupted": "At the birthday party, the father offered the gift to",
+    "normal_target": "the birthday girl",
+    "corrupted_target": "the guest of honor"
+  },
+  {
+    "normal": "Following the performance, the director gave the flowers to",
+    "corrupted": "Following the performance, the producer sent the contract to",
+    "normal_target": "the lead actress",
+    "corrupted_target": "the talent agency"
+  },
+  {
+    "normal": "In the classroom, the teacher distributed the worksheets to",
+    "corrupted": "In the classroom, the student returned the textbook to",
+    "normal_target": "all students",
+    "corrupted_target": "the librarian"
+  },
+  {
+    "normal": "After the negotiation, the CEO transferred the shares to",
+    "corrupted": "After the negotiation, the lawyer forwarded the documents to",
+    "normal_target": "the new partner",
+    "corrupted_target": "the legal team"
+  },
+  {
+    "normal": "At the wedding, the bride tossed the bouquet to",
+    "corrupted": "At the wedding, the groom threw the garter to",
+    "normal_target": "the single ladies",
+    "corrupted_target": "the bachelor friends"
+  },
+  {
+    "normal": "During the ceremony, the mayor presented the key to",
+    "corrupted": "During the ceremony, the ambassador delivered the message to",
+    "normal_target": "the city",
+    "corrupted_target": "the foreign delegation"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the signed book to",
+    "corrupted": "During the charity event, the organizer handed the microphone to",
+    "normal_target": "the young fan",
+    "corrupted_target": "the host"
+  },
+  {
+    "normal": "After finishing the project, the manager assigned the bonus to",
+    "corrupted": "After finishing the project, the client sent the payment to",
+    "normal_target": "the lead developer",
+    "corrupted_target": "the accounting department"
+  },
+  {
+    "normal": "At the birthday party, the mother offered the cake slice to",
+    "corrupted": "At the birthday party, the father passed the gift to",
+    "normal_target": "the birthday girl",
+    "corrupted_target": "the guest of honor"
+  },
+  {
+    "normal": "Following the performance, the conductor gave the baton to",
+    "corrupted": "Following the performance, the soloist returned the instrument to",
+    "normal_target": "the apprentice",
+    "corrupted_target": "the stage manager"
+  },
+  {
+    "normal": "In the courtroom, the lawyer submitted the evidence to",
+    "corrupted": "In the courtroom, the witness provided the testimony to",
+    "normal_target": "the judge",
+    "corrupted_target": "the jury"
+  },
+  {
+    "normal": "During the workshop, the instructor distributed the materials to",
+    "corrupted": "During the workshop, the assistant brought the refreshments to",
+    "normal_target": "the participants",
+    "corrupted_target": "the speakers"
+  },
+  {
+    "normal": "After the harvest, the farmer sold the fresh produce to",
+    "corrupted": "After the harvest, the distributor delivered the shipment to",
+    "normal_target": "the local market",
+    "corrupted_target": "the supermarket chain"
+  },
+  {
+    "normal": "At the reunion, the alumni presented the scholarship to",
+    "corrupted": "At the reunion, the dean announced the award to",
+    "normal_target": "the promising student",
+    "corrupted_target": "the distinguished professor"
+  },
+  {
+    "normal": "During the charity event, the celebrity donated the proceeds to",
+    "corrupted": "During the charity event, the corporation contributed the funds to",
+    "normal_target": "the foundation",
+    "corrupted_target": "the hospital"
+  },
+  {
+    "normal": "After the performance, the director handed the script to",
+    "corrupted": "After the performance, the producer sent the contract to",
+    "normal_target": "the lead actor",
+    "corrupted_target": "the agent"
+  },
+  {
+    "normal": "At the birthday party, the mother offered the cake to",
+    "corrupted": "At the birthday party, the father served the ice cream to",
+    "normal_target": "her daughter",
+    "corrupted_target": "his son"
+  },
+  {
+    "normal": "Following the negotiation, the CEO transferred the shares to",
+    "corrupted": "Following the negotiation, the investor sold the stocks to",
+    "normal_target": "his partner",
+    "corrupted_target": "the broker"
+  },
+  {
+    "normal": "In the classroom, the teacher distributed the textbooks to",
+    "corrupted": "In the classroom, the librarian assigned the novels to",
+    "normal_target": "the students",
+    "corrupted_target": "the book club"
+  },
+  {
+    "normal": "After the match, the captain tossed the ball to",
+    "corrupted": "After the match, the coach threw the jersey to",
+    "normal_target": "the referee",
+    "corrupted_target": "the fan"
+  },
+  {
+    "normal": "At the wedding, the bride passed the bouquet to",
+    "corrupted": "At the wedding, the groom gave the ring to",
+    "normal_target": "her maid of honor",
+    "corrupted_target": "the best man"
+  },
+  {
+    "normal": "During the conference, the speaker forwarded the slides to",
+    "corrupted": "During the conference, the organizer emailed the materials to",
+    "normal_target": "the attendees",
+    "corrupted_target": "the sponsors"
+  }
+]
