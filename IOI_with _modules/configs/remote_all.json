@@ -1,0 +1,30 @@
+{
+    "execution": {
+      "filter_gpt2": "remote",
+      "collect_activations": "remote",
+      "patch_activations": "remote",
+      "plot_heatmap": "remote"
+    },
+    "ssh": {
+      "host": "connect.westb.seetacloud.com",
+      "port": 21946,
+      "username": "root",
+      "pkey_path": null,
+      "password": "7COEO+tzdNN2",
+      "python_bin": "python"
+    },
+    "paths": {
+      "remote_workdir": "/ioi_remote",
+      "local_data_check1": "data_check1.json",
+      "local_data_check2": "data_check2.json",
+      "local_saved": "saved_data.pt",
+      "local_results": "results.pt",
+      "local_heatmap": "HeatMap.png",
+      "remote_data_check1": "data_check1.json",
+      "remote_data_check2": "data_check2.json",
+      "remote_saved": "saved_data.pt",
+      "remote_results": "results.pt",
+      "remote_heatmap": "HeatMap.png",
+      "timing_report": "timing_remote_all.json"
+    }
+  }

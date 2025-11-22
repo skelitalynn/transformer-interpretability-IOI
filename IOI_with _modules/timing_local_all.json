@@ -1,0 +1,18 @@
+{
+  "generate_data_wall_time": 0.06976532936096191,
+  "generate_data_time": 0.0008447170257568359,
+  "check_structure_wall_time": 0.08257579803466797,
+  "check_structure_time": 0.0008249282836914062,
+  "filter_gpt2_time": 11.010003089904785,
+  "filter_gpt2_wall_time": 16.395981788635254,
+  "filter_gpt2_location": "local",
+  "collect_activations_time": 6.862532615661621,
+  "collect_activations_wall_time": 12.030805110931396,
+  "collect_activations_location": "local",
+  "patch_activations_time": 171.3606994152069,
+  "patch_activations_wall_time": 177.48330402374268,
+  "patch_activations_location": "local",
+  "plot_heatmap_time": 0.7731945514678955,
+  "plot_heatmap_wall_time": 8.629476547241211,
+  "plot_heatmap_location": "local"
+}

@@ -1,0 +1,42 @@
+[
+    {
+      "clean": "After A and B went to the store, A gave a bottle of milk to",
+      "corrupted": "After A and B went to the store, B gave a bottle of milk to"
+    },
+    {
+      "clean": "After A and B visited the library, A gave a book to",
+      "corrupted": "After A and B visited the library, B gave a book to"
+    },
+    {
+      "clean": "After A and B walked to the park, A gave a frisbee to",
+      "corrupted": "After A and B walked to the park, B gave a frisbee to"
+    },
+    {
+      "clean": "After A and B drove to the beach, A gave a towel to",
+      "corrupted": "After A and B drove to the beach, B gave a towel to"
+    },
+    {
+      "clean": "After A and B entered the classroom, A gave a pencil to",
+      "corrupted": "After A and B entered the classroom, B gave a pencil to"
+    },
+    {
+      "clean": "After A and B arrived at the party, A gave a gift to",
+      "corrupted": "After A and B arrived at the party, B gave a gift to"
+    },
+    {
+      "clean": "After A and B finished their meal, A gave a tip to",
+      "corrupted": "After A and B finished their meal, B gave a tip to"
+    },
+    {
+      "clean": "After A and B went to the bank, A gave a check to",
+      "corrupted": "After A and B went to the bank, B gave a check to"
+    },
+    {
+      "clean": "After A and B visited the hospital, A gave flowers to",
+      "corrupted": "After A and B visited the hospital, B gave flowers to"
+    },
+    {
+      "clean": "After A and B walked to the school, A gave a notebook to",
+      "corrupted": "After A and B walked to the school, B gave a notebook to"
+    }
+  ]

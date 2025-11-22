@@ -1,0 +1,33 @@
+{
+  "execution": {
+    "filter_gpt2": "local",
+    "collect_activations": "local",
+    "patch_activations": "local",
+    "plot_heatmap": "local"
+  },
+  "ssh": {
+    "host": "connect.westc.gpuhub.com",
+    "port": 19337,
+    "username": "root",
+    "pkey_path": null,
+    "password": "7COEO+tzdNN2",
+    "python_bin": "python3",
+    "conda_env": "",
+    "setup_cmd": ""
+  },
+  "paths": {
+    "remote_workdir": "/home/your_username/ioi_remote",
+    "local_data_check1": "data_check1.json",
+    "local_data_check2": "data_check2.json",
+    "local_saved": "saved_data.pt",
+    "local_results": "results.pt",
+    "local_heatmap": "HeatMap.png",
+    "remote_data_check1": "data_check1.json",
+    "remote_data_check2": "data_check2.json",
+    "remote_saved": "saved_data.pt",
+    "remote_results": "results.pt",
+    "remote_heatmap": "HeatMap.png",
+    "timing_report": "timing_local_all.json"
+  }
+}
+
